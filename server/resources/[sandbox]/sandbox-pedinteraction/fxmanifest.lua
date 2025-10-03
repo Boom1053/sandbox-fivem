@@ -11,3 +11,12 @@ client_scripts({
 server_scripts({
 	"server/**/*.lua",
 })
+
+exports({
+	"Add",
+	"Toggle", 
+	"Remove",
+	"GetPed",
+	"VendorCreate",
+	"VendorRemove",
+})
